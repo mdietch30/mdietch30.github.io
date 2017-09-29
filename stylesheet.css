@@ -1,0 +1,19 @@
+ h1 { color: black }
+ 
+ body {
+		background: grey;
+		color: blue;
+		font-size: 16pt;
+		font-family: 'PT Sans Narrow', sans-serif;
+ }
+ 
+ h1 { font-size: 250%;
+	font-weight: bold;
+	color: black:
+ }
+ 
+ a {color: blue;
+ text-decoration: none }
+ a:hover {color: red } 
+ 
+ 
